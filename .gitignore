@@ -1,2 +1,11 @@
-.idea/
+# Python
+__pycache__/
+*.pyc
 .venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/

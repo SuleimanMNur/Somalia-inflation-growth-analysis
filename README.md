@@ -80,7 +80,7 @@ Full Research Report
 
 The detailed research report, including the methodology, regression interpretation, and conclusion, is available here:
 
-Read the Full Research Report
+Read the Full Research Report in the file named "research_report.md"
 
 Data Source
 

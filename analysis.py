@@ -30,7 +30,7 @@ print("\nEconomic Summary Statistics:")
 
 print(df[["inflation", "gdp_growth"]].describe())
 
-# # Correlation between inflation and GDP growth
+# Correlation between inflation and GDP growth
 
 correlation = df["inflation"].corr(df["gdp_growth"])
 

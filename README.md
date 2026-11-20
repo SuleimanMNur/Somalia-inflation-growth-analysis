@@ -84,7 +84,7 @@ Read the Full Research Report
 
 Data Source
 
-World Bank economic data. The exact indicator names, codes, and source links should be added after verification.
+World Bank economic data.
 
 Author
 

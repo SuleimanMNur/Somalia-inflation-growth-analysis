@@ -51,6 +51,7 @@ However, the relationship is not statistically significant at the 5% level. The 
 
 Project Structure
 
+```text
 Somalia-inflation-growth-analysis/
 │
 ├── data/
@@ -66,6 +67,7 @@ Somalia-inflation-growth-analysis/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 Limitations
 
